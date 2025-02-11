@@ -3,7 +3,7 @@ from tkinter import messagebox
 import requests
 from PIL import Image, ImageTk
 import random
-import io
+import io   
 
 # Monka
 def fetch_random_monkey():
